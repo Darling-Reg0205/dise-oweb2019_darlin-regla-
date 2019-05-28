@@ -1,0 +1,64 @@
+.pixel{
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
+.pixel2 {
+    background: pink;
+    width: 60px;
+    height: 60px;
+}
+.pixel3{
+    background: greenyellow;
+    width: 390px;
+    height: 500px;
+}
+.pixel4{
+    background: purple;
+    width: 450px;
+    height: 490px;
+}
+.pixel5{
+    background: olive;
+    width: 450px;
+    height: 490px;
+}
+.relactivo_pixel{
+    font-size: 20px;
+}
+.porciento{
+    background: chocolate;
+    width: 50%;
+    height: 50%;
+}
+.porciento2{
+    background: red;
+    width: 75%
+    height:75%;
+}
+.porciento3{
+    background: blue;
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 50%;
+}
+.size_pixel{
+    font-size: 10px;
+}
+.size_em{
+    font-size: 10em;
+}
+.size_rem{
+    font-size: 10rem;
+}
+.size_pt{
+    font-size: 10pt;
+}
+.size_porciento{
+    font-size: 10%;
+}
+.size_ex{
+    font-size: 10ex
+}
