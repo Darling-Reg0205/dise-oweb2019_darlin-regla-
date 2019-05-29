@@ -62,3 +62,51 @@ body{
 .size_ex{
     font-size: 10ex
 }
+
+.size_cm{
+    width: 5cm;
+    height: 5cm;
+    background: blue;
+    margin: 1em;
+}
+.size_mm{
+    width: 5mm;
+    height: 5mm;
+    background: red;
+    margin: 1em;
+}
+.size_pt{
+    width: 5pt;
+    height: 5pt;
+    background: black;
+    margin: 1em;
+}
+.size_in{
+    width: 5in;
+    height: 5in;
+    background: blueviolet;
+    margin: 1em;
+}
+.sizedf{
+
+}
+.color1{
+    background: blue;
+    width: 5px;
+    height: 5px;
+}
+.color2{
+    background: red;
+    width: 50px;
+    height: 50px;
+}
+.color3{
+    background: blueviolet;
+    width: 100px;
+    height: 100px
+}
+.color4{
+    background: black;
+    width: 200px;
+    height: 200px;
+}
