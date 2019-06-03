@@ -16,6 +16,7 @@ nav a {
 /*Cambiar color en el hover*/
 nav a:hover{
     color: orangered;
+    border-bottom: solid 1px orangered;
 }
 
 .container {
