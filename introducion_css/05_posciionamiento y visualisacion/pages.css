@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat',
+        sans-serif;
+    background: #FEF5DA;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+section {
+    display: flex;
+    height: 400px;
+
+}
+
+section,
+div {
+    padding: 10px;
+}
+
+div a {
+    color: #AAA;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+/* Cmbiar color en el hover*/
+nav a:hover {
+    color: black;
+    border-bottom: black;
+}
+
+}
+
+header nav div a {
+    color: #21292D;
+    text-transform: uppercase;
+    font-family: Arial
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+nav a {
+    margin-left: 30px;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section article div {
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+section article div h1 {
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+section article div p {
+    font-size: 13px;
+    width: 70%;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+/* Clases de utilidad */
+.btn {
+    padding: 15px 50px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5%;
+}
+
+
+
+section article div a {
+    color: black;
+}
+
+.bg-otono {
+    background-color: rgb(255, 121, 73);
+}
+
+/* Agregar fondo */
+section#principal {
+    background-image: url(hiring_artist.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position-x: right;
+    background-size: contain;
+}
+/*Agregar fondp*/
+section#pricipal{
+    background-image: url()
+
+}
+section footer div{
+    margin-left: 10px;
+    padding-right: 10px;
+}
+.bta{
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 15px 20px;
+    font-size: 15px;
+    border-radius: 5%;
+    border:solid 1px;
+}
+section article footer a{
+    color:black;
+    padding: 15px;
+}
