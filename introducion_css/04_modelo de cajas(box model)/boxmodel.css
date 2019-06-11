@@ -61,7 +61,10 @@ aside img{
     margin: 10px;
 }
 img{
-    display: ;
+    display: flex;
+    padding-right: 10px;
+    margin-right: 25px;
+    
 }
 
 span{
