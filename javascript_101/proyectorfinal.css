@@ -1,0 +1,14 @@
+
+.flex{
+    display: flex;
+    width: 30vh;
+    height: 15vh;
+}
+
+.div{
+    margin-right: 95px
+}
+
+.derecha{
+    text-align: right;
+}
