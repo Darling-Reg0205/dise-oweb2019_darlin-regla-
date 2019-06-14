@@ -11,3 +11,77 @@ h1 span{
     width: 250px;
     
 }
+
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*Estilo para el nav*/
+nav {
+    background: #0000ff;
+    width: 100vw;
+    height: 55px;
+}
+
+nav h1,
+nav a {
+    color: rgb(10, 0, 0);
+    font-size: 20px;
+}
+
+nav ul li {
+    background: rgba(255, 255, 255, 0.5);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: solid 1px #707070;
+    display: inline-block;
+}
+
+nav h1 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 0;
+    font-weight: normal;
+}
+
+
+
+nav h1 {
+    display: none;
+}
+
+
+
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    flex: 2;
+}
+
+ul li {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 5px;
+
+}
+/*Quitar subrayado*/
+a {
+    text-decoration: none;
+}
+p {
+    display:block 
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+
+}
